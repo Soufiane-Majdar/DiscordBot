@@ -85,6 +85,6 @@ async def on_message(message):
 keep_alive()
 
 # Robot Token Value
-TOKEN = 'ODg4NzI1Mzc5ODE1MTg2NDU0.YUW4Ag.vhYNoCmFgTBzT6r7So2wIICwHdk'
+TOKEN = ''
 
 client.run(TOKEN)
