@@ -1,0 +1,8 @@
+discord==1.0.1
+discord.py==1.7.2
+beautifulsoup4==4.9.3
+Flask==2.0.1
+lxml==4.6.1
+wikipedia==1.4.0
+requests==2.25.1
+threadpoolctl==2.2.0
